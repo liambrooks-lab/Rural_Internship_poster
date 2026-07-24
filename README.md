@@ -26,7 +26,7 @@ Check out the rendered E-Poster directly in your browser:
    ```bash
    git clone https://github.com/liambrooks-lab/Rural_Internship_poster.git
    ```
-2. Open the `poster.html` file in any Chromium-based browser (Chrome, Edge, Brave).
+2. Open the `index.html` file in any Chromium-based browser (Chrome, Edge, Brave).
 3. To generate the high-resolution poster:
    * Press `Ctrl + P` (or `Cmd + P`).
    * Set destination to **Save as PDF**.
